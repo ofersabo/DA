@@ -1,0 +1,1 @@
+from my_library.predictors.fewrel_analyze_predictor import MTBClassifierPredictor
